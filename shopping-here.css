@@ -1,0 +1,38 @@
+
+.example2 {
+   border: 3px solid rgb(250,128,114);
+   margin-left: 50px;
+   margin-right: 60px;
+   margin-bottom: 60px;
+   
+}
+
+.example3 {
+   border: 3px solid rgb(250,128,114);	
+   margin: 40px;
+}
+
+#image1, #image2, #image3 {
+   display: block;
+   margin: auto;
+   width: 200px;
+   height: 200px;
+      
+}
+
+#paragraph1, #paragraph2, #paragraph3 {
+   text-align: center;     
+      
+}
+
+.hr {
+   width: 5px;
+   float: left;   
+}
+
+.container1, .container2, .container3  {
+	border: solid 2px violet;
+	float: left;
+	width: 30%;
+	margin: 10px 20px;
+}
